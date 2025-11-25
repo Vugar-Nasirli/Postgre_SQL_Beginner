@@ -1,0 +1,464 @@
+[
+  {
+    "job_id": 552322,
+    "job_title": "Associate Director- Data Insights",
+    "skills": "sql",
+    "company": "AT&T",
+    "salary_year_avg": "255829.5"
+  },
+  {
+    "job_id": 552322,
+    "job_title": "Associate Director- Data Insights",
+    "skills": "python",
+    "company": "AT&T",
+    "salary_year_avg": "255829.5"
+  },
+  {
+    "job_id": 552322,
+    "job_title": "Associate Director- Data Insights",
+    "skills": "r",
+    "company": "AT&T",
+    "salary_year_avg": "255829.5"
+  },
+  {
+    "job_id": 552322,
+    "job_title": "Associate Director- Data Insights",
+    "skills": "azure",
+    "company": "AT&T",
+    "salary_year_avg": "255829.5"
+  },
+  {
+    "job_id": 552322,
+    "job_title": "Associate Director- Data Insights",
+    "skills": "databricks",
+    "company": "AT&T",
+    "salary_year_avg": "255829.5"
+  },
+  {
+    "job_id": 552322,
+    "job_title": "Associate Director- Data Insights",
+    "skills": "aws",
+    "company": "AT&T",
+    "salary_year_avg": "255829.5"
+  },
+  {
+    "job_id": 552322,
+    "job_title": "Associate Director- Data Insights",
+    "skills": "pandas",
+    "company": "AT&T",
+    "salary_year_avg": "255829.5"
+  },
+  {
+    "job_id": 552322,
+    "job_title": "Associate Director- Data Insights",
+    "skills": "pyspark",
+    "company": "AT&T",
+    "salary_year_avg": "255829.5"
+  },
+  {
+    "job_id": 552322,
+    "job_title": "Associate Director- Data Insights",
+    "skills": "jupyter",
+    "company": "AT&T",
+    "salary_year_avg": "255829.5"
+  },
+  {
+    "job_id": 552322,
+    "job_title": "Associate Director- Data Insights",
+    "skills": "excel",
+    "company": "AT&T",
+    "salary_year_avg": "255829.5"
+  },
+  {
+    "job_id": 552322,
+    "job_title": "Associate Director- Data Insights",
+    "skills": "tableau",
+    "company": "AT&T",
+    "salary_year_avg": "255829.5"
+  },
+  {
+    "job_id": 552322,
+    "job_title": "Associate Director- Data Insights",
+    "skills": "power bi",
+    "company": "AT&T",
+    "salary_year_avg": "255829.5"
+  },
+  {
+    "job_id": 552322,
+    "job_title": "Associate Director- Data Insights",
+    "skills": "powerpoint",
+    "company": "AT&T",
+    "salary_year_avg": "255829.5"
+  },
+  {
+    "job_id": 99305,
+    "job_title": "Data Analyst, Marketing",
+    "skills": "sql",
+    "company": "Pinterest Job Advertisements",
+    "salary_year_avg": "232423.0"
+  },
+  {
+    "job_id": 99305,
+    "job_title": "Data Analyst, Marketing",
+    "skills": "python",
+    "company": "Pinterest Job Advertisements",
+    "salary_year_avg": "232423.0"
+  },
+  {
+    "job_id": 99305,
+    "job_title": "Data Analyst, Marketing",
+    "skills": "r",
+    "company": "Pinterest Job Advertisements",
+    "salary_year_avg": "232423.0"
+  },
+  {
+    "job_id": 99305,
+    "job_title": "Data Analyst, Marketing",
+    "skills": "hadoop",
+    "company": "Pinterest Job Advertisements",
+    "salary_year_avg": "232423.0"
+  },
+  {
+    "job_id": 99305,
+    "job_title": "Data Analyst, Marketing",
+    "skills": "tableau",
+    "company": "Pinterest Job Advertisements",
+    "salary_year_avg": "232423.0"
+  },
+  {
+    "job_id": 1021647,
+    "job_title": "Data Analyst (Hybrid/Remote)",
+    "skills": "sql",
+    "company": "Uclahealthcareers",
+    "salary_year_avg": "217000.0"
+  },
+  {
+    "job_id": 1021647,
+    "job_title": "Data Analyst (Hybrid/Remote)",
+    "skills": "crystal",
+    "company": "Uclahealthcareers",
+    "salary_year_avg": "217000.0"
+  },
+  {
+    "job_id": 1021647,
+    "job_title": "Data Analyst (Hybrid/Remote)",
+    "skills": "oracle",
+    "company": "Uclahealthcareers",
+    "salary_year_avg": "217000.0"
+  },
+  {
+    "job_id": 1021647,
+    "job_title": "Data Analyst (Hybrid/Remote)",
+    "skills": "tableau",
+    "company": "Uclahealthcareers",
+    "salary_year_avg": "217000.0"
+  },
+  {
+    "job_id": 1021647,
+    "job_title": "Data Analyst (Hybrid/Remote)",
+    "skills": "flow",
+    "company": "Uclahealthcareers",
+    "salary_year_avg": "217000.0"
+  },
+  {
+    "job_id": 168310,
+    "job_title": "Principal Data Analyst (Remote)",
+    "skills": "sql",
+    "company": "SmartAsset",
+    "salary_year_avg": "205000.0"
+  },
+  {
+    "job_id": 168310,
+    "job_title": "Principal Data Analyst (Remote)",
+    "skills": "python",
+    "company": "SmartAsset",
+    "salary_year_avg": "205000.0"
+  },
+  {
+    "job_id": 168310,
+    "job_title": "Principal Data Analyst (Remote)",
+    "skills": "go",
+    "company": "SmartAsset",
+    "salary_year_avg": "205000.0"
+  },
+  {
+    "job_id": 168310,
+    "job_title": "Principal Data Analyst (Remote)",
+    "skills": "snowflake",
+    "company": "SmartAsset",
+    "salary_year_avg": "205000.0"
+  },
+  {
+    "job_id": 168310,
+    "job_title": "Principal Data Analyst (Remote)",
+    "skills": "pandas",
+    "company": "SmartAsset",
+    "salary_year_avg": "205000.0"
+  },
+  {
+    "job_id": 168310,
+    "job_title": "Principal Data Analyst (Remote)",
+    "skills": "numpy",
+    "company": "SmartAsset",
+    "salary_year_avg": "205000.0"
+  },
+  {
+    "job_id": 168310,
+    "job_title": "Principal Data Analyst (Remote)",
+    "skills": "excel",
+    "company": "SmartAsset",
+    "salary_year_avg": "205000.0"
+  },
+  {
+    "job_id": 168310,
+    "job_title": "Principal Data Analyst (Remote)",
+    "skills": "tableau",
+    "company": "SmartAsset",
+    "salary_year_avg": "205000.0"
+  },
+  {
+    "job_id": 168310,
+    "job_title": "Principal Data Analyst (Remote)",
+    "skills": "gitlab",
+    "company": "SmartAsset",
+    "salary_year_avg": "205000.0"
+  },
+  {
+    "job_id": 731368,
+    "job_title": "Director, Data Analyst - HYBRID",
+    "skills": "sql",
+    "company": "Inclusively",
+    "salary_year_avg": "189309.0"
+  },
+  {
+    "job_id": 731368,
+    "job_title": "Director, Data Analyst - HYBRID",
+    "skills": "python",
+    "company": "Inclusively",
+    "salary_year_avg": "189309.0"
+  },
+  {
+    "job_id": 731368,
+    "job_title": "Director, Data Analyst - HYBRID",
+    "skills": "azure",
+    "company": "Inclusively",
+    "salary_year_avg": "189309.0"
+  },
+  {
+    "job_id": 731368,
+    "job_title": "Director, Data Analyst - HYBRID",
+    "skills": "aws",
+    "company": "Inclusively",
+    "salary_year_avg": "189309.0"
+  },
+  {
+    "job_id": 731368,
+    "job_title": "Director, Data Analyst - HYBRID",
+    "skills": "oracle",
+    "company": "Inclusively",
+    "salary_year_avg": "189309.0"
+  },
+  {
+    "job_id": 731368,
+    "job_title": "Director, Data Analyst - HYBRID",
+    "skills": "snowflake",
+    "company": "Inclusively",
+    "salary_year_avg": "189309.0"
+  },
+  {
+    "job_id": 731368,
+    "job_title": "Director, Data Analyst - HYBRID",
+    "skills": "tableau",
+    "company": "Inclusively",
+    "salary_year_avg": "189309.0"
+  },
+  {
+    "job_id": 731368,
+    "job_title": "Director, Data Analyst - HYBRID",
+    "skills": "power bi",
+    "company": "Inclusively",
+    "salary_year_avg": "189309.0"
+  },
+  {
+    "job_id": 731368,
+    "job_title": "Director, Data Analyst - HYBRID",
+    "skills": "sap",
+    "company": "Inclusively",
+    "salary_year_avg": "189309.0"
+  },
+  {
+    "job_id": 731368,
+    "job_title": "Director, Data Analyst - HYBRID",
+    "skills": "jenkins",
+    "company": "Inclusively",
+    "salary_year_avg": "189309.0"
+  },
+  {
+    "job_id": 731368,
+    "job_title": "Director, Data Analyst - HYBRID",
+    "skills": "bitbucket",
+    "company": "Inclusively",
+    "salary_year_avg": "189309.0"
+  },
+  {
+    "job_id": 731368,
+    "job_title": "Director, Data Analyst - HYBRID",
+    "skills": "atlassian",
+    "company": "Inclusively",
+    "salary_year_avg": "189309.0"
+  },
+  {
+    "job_id": 731368,
+    "job_title": "Director, Data Analyst - HYBRID",
+    "skills": "jira",
+    "company": "Inclusively",
+    "salary_year_avg": "189309.0"
+  },
+  {
+    "job_id": 731368,
+    "job_title": "Director, Data Analyst - HYBRID",
+    "skills": "confluence",
+    "company": "Inclusively",
+    "salary_year_avg": "189309.0"
+  },
+  {
+    "job_id": 310660,
+    "job_title": "Principal Data Analyst, AV Performance Analysis",
+    "skills": "sql",
+    "company": "Motional",
+    "salary_year_avg": "189000.0"
+  },
+  {
+    "job_id": 310660,
+    "job_title": "Principal Data Analyst, AV Performance Analysis",
+    "skills": "python",
+    "company": "Motional",
+    "salary_year_avg": "189000.0"
+  },
+  {
+    "job_id": 310660,
+    "job_title": "Principal Data Analyst, AV Performance Analysis",
+    "skills": "r",
+    "company": "Motional",
+    "salary_year_avg": "189000.0"
+  },
+  {
+    "job_id": 310660,
+    "job_title": "Principal Data Analyst, AV Performance Analysis",
+    "skills": "git",
+    "company": "Motional",
+    "salary_year_avg": "189000.0"
+  },
+  {
+    "job_id": 310660,
+    "job_title": "Principal Data Analyst, AV Performance Analysis",
+    "skills": "bitbucket",
+    "company": "Motional",
+    "salary_year_avg": "189000.0"
+  },
+  {
+    "job_id": 310660,
+    "job_title": "Principal Data Analyst, AV Performance Analysis",
+    "skills": "atlassian",
+    "company": "Motional",
+    "salary_year_avg": "189000.0"
+  },
+  {
+    "job_id": 310660,
+    "job_title": "Principal Data Analyst, AV Performance Analysis",
+    "skills": "jira",
+    "company": "Motional",
+    "salary_year_avg": "189000.0"
+  },
+  {
+    "job_id": 310660,
+    "job_title": "Principal Data Analyst, AV Performance Analysis",
+    "skills": "confluence",
+    "company": "Motional",
+    "salary_year_avg": "189000.0"
+  },
+  {
+    "job_id": 1749593,
+    "job_title": "Principal Data Analyst",
+    "skills": "sql",
+    "company": "SmartAsset",
+    "salary_year_avg": "186000.0"
+  },
+  {
+    "job_id": 1749593,
+    "job_title": "Principal Data Analyst",
+    "skills": "python",
+    "company": "SmartAsset",
+    "salary_year_avg": "186000.0"
+  },
+  {
+    "job_id": 1749593,
+    "job_title": "Principal Data Analyst",
+    "skills": "go",
+    "company": "SmartAsset",
+    "salary_year_avg": "186000.0"
+  },
+  {
+    "job_id": 1749593,
+    "job_title": "Principal Data Analyst",
+    "skills": "snowflake",
+    "company": "SmartAsset",
+    "salary_year_avg": "186000.0"
+  },
+  {
+    "job_id": 1749593,
+    "job_title": "Principal Data Analyst",
+    "skills": "pandas",
+    "company": "SmartAsset",
+    "salary_year_avg": "186000.0"
+  },
+  {
+    "job_id": 1749593,
+    "job_title": "Principal Data Analyst",
+    "skills": "numpy",
+    "company": "SmartAsset",
+    "salary_year_avg": "186000.0"
+  },
+  {
+    "job_id": 1749593,
+    "job_title": "Principal Data Analyst",
+    "skills": "excel",
+    "company": "SmartAsset",
+    "salary_year_avg": "186000.0"
+  },
+  {
+    "job_id": 1749593,
+    "job_title": "Principal Data Analyst",
+    "skills": "tableau",
+    "company": "SmartAsset",
+    "salary_year_avg": "186000.0"
+  },
+  {
+    "job_id": 1749593,
+    "job_title": "Principal Data Analyst",
+    "skills": "gitlab",
+    "company": "SmartAsset",
+    "salary_year_avg": "186000.0"
+  },
+  {
+    "job_id": 387860,
+    "job_title": "ERM Data Analyst",
+    "skills": "sql",
+    "company": "Get It Recruit - Information Technology",
+    "salary_year_avg": "184000.0"
+  },
+  {
+    "job_id": 387860,
+    "job_title": "ERM Data Analyst",
+    "skills": "python",
+    "company": "Get It Recruit - Information Technology",
+    "salary_year_avg": "184000.0"
+  },
+  {
+    "job_id": 387860,
+    "job_title": "ERM Data Analyst",
+    "skills": "r",
+    "company": "Get It Recruit - Information Technology",
+    "salary_year_avg": "184000.0"
+  }
+]

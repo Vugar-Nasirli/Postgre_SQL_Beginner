@@ -1,0 +1,42 @@
+[
+  {
+    "skills": "svn",
+    "average_salary": "400000"
+  },
+  {
+    "skills": "solidity",
+    "average_salary": "179000"
+  },
+  {
+    "skills": "couchbase",
+    "average_salary": "160515"
+  },
+  {
+    "skills": "datarobot",
+    "average_salary": "155486"
+  },
+  {
+    "skills": "golang",
+    "average_salary": "155000"
+  },
+  {
+    "skills": "mxnet",
+    "average_salary": "149000"
+  },
+  {
+    "skills": "dplyr",
+    "average_salary": "147633"
+  },
+  {
+    "skills": "vmware",
+    "average_salary": "147500"
+  },
+  {
+    "skills": "terraform",
+    "average_salary": "146734"
+  },
+  {
+    "skills": "twilio",
+    "average_salary": "138500"
+  }
+]

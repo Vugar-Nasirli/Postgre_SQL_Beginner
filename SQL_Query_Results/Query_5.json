@@ -1,0 +1,34 @@
+[
+  {
+    "skills": "python",
+    "demand_count": "4330"
+  },
+  {
+    "skills": "r",
+    "demand_count": "2142"
+  },
+  {
+    "skills": "looker",
+    "demand_count": "868"
+  },
+  {
+    "skills": "azure",
+    "demand_count": "821"
+  },
+  {
+    "skills": "go",
+    "demand_count": "815"
+  },
+  {
+    "skills": "aws",
+    "demand_count": "769"
+  },
+  {
+    "skills": "oracle",
+    "demand_count": "619"
+  },
+  {
+    "skills": "snowflake",
+    "demand_count": "608"
+  }
+]

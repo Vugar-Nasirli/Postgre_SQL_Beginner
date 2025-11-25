@@ -1,0 +1,112 @@
+[
+  {
+    "skill": "aws",
+    "job_count": "57",
+    "category": "High_Paying_Skill"
+  },
+  {
+    "skill": "azure",
+    "job_count": "60",
+    "category": "High_Paying_Skill"
+  },
+  {
+    "skill": "azure",
+    "job_count": "10942",
+    "category": "High_Demand_Skill"
+  },
+  {
+    "skill": "excel",
+    "job_count": "122",
+    "category": "High_Paying_Skill"
+  },
+  {
+    "skill": "excel",
+    "job_count": "67031",
+    "category": "High_Demand_Skill"
+  },
+  {
+    "skill": "oracle",
+    "job_count": "54",
+    "category": "High_Paying_Skill"
+  },
+  {
+    "skill": "oracle",
+    "job_count": "10410",
+    "category": "High_Demand_Skill"
+  },
+  {
+    "skill": "power bi",
+    "job_count": "71",
+    "category": "High_Paying_Skill"
+  },
+  {
+    "skill": "power bi",
+    "job_count": "39468",
+    "category": "High_Demand_Skill"
+  },
+  {
+    "skill": "powerpoint",
+    "job_count": "13848",
+    "category": "High_Demand_Skill"
+  },
+  {
+    "skill": "python",
+    "job_count": "264",
+    "category": "High_Paying_Skill"
+  },
+  {
+    "skill": "python",
+    "job_count": "57326",
+    "category": "High_Demand_Skill"
+  },
+  {
+    "skill": "r",
+    "job_count": "129",
+    "category": "High_Paying_Skill"
+  },
+  {
+    "skill": "r",
+    "job_count": "30075",
+    "category": "High_Demand_Skill"
+  },
+  {
+    "skill": "sap",
+    "job_count": "11297",
+    "category": "High_Demand_Skill"
+  },
+  {
+    "skill": "sas",
+    "job_count": "80",
+    "category": "High_Paying_Skill"
+  },
+  {
+    "skill": "sas",
+    "job_count": "28068",
+    "category": "High_Demand_Skill"
+  },
+  {
+    "skill": "sql",
+    "job_count": "327",
+    "category": "High_Paying_Skill"
+  },
+  {
+    "skill": "sql",
+    "job_count": "92628",
+    "category": "High_Demand_Skill"
+  },
+  {
+    "skill": "tableau",
+    "job_count": "180",
+    "category": "High_Paying_Skill"
+  },
+  {
+    "skill": "tableau",
+    "job_count": "46554",
+    "category": "High_Demand_Skill"
+  },
+  {
+    "skill": "word",
+    "job_count": "13591",
+    "category": "High_Demand_Skill"
+  }
+]
